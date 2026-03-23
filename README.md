@@ -75,14 +75,6 @@ Communication        →  Technical presentations, deck design, cross-functional
 
 ---
 
-### 📊 GitHub Stats
-
-![Keerthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keerthi0912K&show_icons=true&theme=minimal&hide_border=true&title_color=C04B2B&icon_color=2B3A6B)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthi0912K&layout=compact&theme=minimal&hide_border=true&title_color=C04B2B)
-
----
-
 ### 📬 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/kkeerthii)
