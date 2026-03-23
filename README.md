@@ -43,8 +43,8 @@ Communication        →  Technical presentations, deck design, cross-functional
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Adversarial AI in 5G-IoT**](https://github.com/Keerthi0912K) | Red/blue team simulation framework for AI attack detection | Python · Adversarial ML · Threat Modelling |
-| [**SaferHer — Published IoT Device**](https://github.com/Keerthi0912K) | Wearable women's safety device with GPS, GSM, camera · GIJET 2024 | Raspberry Pi · Linux · IoT |
+| [**Adversarial AI in 5G-IoT**](https://github.com/Keerthi0912K/Detection-and-Mitigation-of-Adversarial-AI-Threats-in-5G-IoT) | Red/blue team simulation framework for AI attack detection | Python · Adversarial ML · Threat Modelling |
+| [**SaferHer — Published IoT Device**](https://github.com/Keerthi0912K/SaferHer) | Wearable women's safety device with GPS, GSM, camera · GIJET 2024 | Raspberry Pi · Linux · IoT |
 | [**Review Revelation**](https://github.com/Keerthi0912K/Review-Revelation) | NLP sentiment pipeline on hotel reviews with temporal analysis | Python · NLP · Data Viz |
 | [**U.S. Home Price Predictor**](https://github.com/Keerthi0912K/Key-factors-that-influence-US-Home-Prices-Nationally) | 20-year economic data model · R² = 0.982 | Python · Lasso · Ridge |
 | [**Taxi Fare Guru**](https://github.com/Keerthi0912K/Python-Taxi-Fare-Guru-Total-Amount-Prediction-Challenge) | 225K+ trip prediction · R² = 0.92 | Python · Random Forest · Feature Engineering |
