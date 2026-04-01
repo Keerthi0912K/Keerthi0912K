@@ -50,7 +50,7 @@ Communication        →  Technical presentations, deck design, cross-functional
 | [**Taxi Fare Guru**](https://github.com/Keerthi0912K/Python-Taxi-Fare-Guru-Total-Amount-Prediction-Challenge) | 225K+ trip prediction · R² = 0.92 | Python · Random Forest · Feature Engineering |
 | [**Hospital Management System v1**](https://github.com/Keerthi0912K) | Role-based healthcare web app · full rebuild | Flask · SQLAlchemy · SQLite |
 | [**Hospital Management System v2**](https://github.com/Keerthi0912K) | Role-based healthcare web app · full rebuild | Flask · VueJS · SQLAlchemy · SQLite |
-| [**Express Dry Cleaners Strategy**]([https://github.com/Keerthi0912K](https://github.com/Keerthi0912K/Express-Dry-Cleaners-Revenue-Strategy)) | RFM segmentation → 30% revenue growth | SQL · Business Analytics |
+| [**Express Dry Cleaners Strategy**](https://github.com/Keerthi0912K/Express-Dry-Cleaners-Revenue-Strategy) | RFM segmentation → 30% revenue growth | Business Analytics |
 
 ---
 
